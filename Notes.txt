@@ -1,0 +1,12 @@
+Short Cut LOD:
+-------------
+select measureValue(meaureValue)and meaureName(ctrl+MeasureName)
+rightClick > create > LOD Clalculation.
+
+
+on barchart:
+-----------
+If value not display
+	. goto label > down click on checkbox(allow label to overlap)
+	. also change the value position on chart. select particular bar and move Value.
+
