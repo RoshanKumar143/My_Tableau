@@ -1,0 +1,32 @@
+Aimed for data analyst and consultants looking to leverage Tableau to gather data insights
+through business dashboards.
+Having Experience in Dashboard and have the ability to make data-driven decisions in real time.
+
+Pre-requisists:
+--------------
+> Tableau Public Acc. &
+> Version of Tableau Public Desktop Application (2024.2)  
+> Understanding of how to interpret tabular data
+> Some statistical knowledge in Max, Min, Sum, Average..
+ 
+Task - 1:
+-------
+. Exploring Tableau Public Website
+. Connecting to data on Tableau Public
+. Navigating Tableau Public Desktop Applicaton UI to start building out your business dashboard.
+
+. TableauPublic.com
+
+
+Terminologies:
+-------------
+1.	Pills : The fieds in Data Panel called. Due to its Pill like shape
+2.      The Blue Pills represent the DISCRETE FILEDS.
+	The Green Pills represent the CONTINUOUS FILEDS.
+
+Contionous & Discrete : Mix
+ 
+	Discrete Dimension, Continuous Dimension
+	Discrete Measure, Continuous Measure
+
+	
