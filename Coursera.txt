@@ -24,9 +24,37 @@ Terminologies:
 2.      The Blue Pills represent the DISCRETE FILEDS.
 	The Green Pills represent the CONTINUOUS FILEDS.
 
+
+
+Task -2 :
+------
+
 Contionous & Discrete : Mix
  
 	Discrete Dimension, Continuous Dimension
 	Discrete Measure, Continuous Measure
 
+
+CONTINUOUS FIELD: 
+	.Consists of an Infinite no. of values that orm an uninterrupted,unbroken hole within a range.
+	. This means these continuous fields can get infinitely more and more granular due to 
+ the extreme caused by decimals. Dist., Height, and Weight are some examples of a continuous field,and when added to the field they can produce an Axis.
+	Ex:	Columns : SUM(Sales)
+		Rows	: Category
+
 	
+DISCRETE FIELDS: 
+	. Consists of finite and countable values.
+	. These Values are Individual, Countable, sepaerate, and distinct.
+	. They are typically represented by Whole numbers, so no decimals.
+
+
+Task - 3: Creatinng Visualizations
+------- 
+
+1. Total Sales KPI
+
+
+
+
+ 
