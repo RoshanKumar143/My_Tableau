@@ -49,11 +49,19 @@ DISCRETE FIELDS:
 	. They are typically represented by Whole numbers, so no decimals.
 
 
-Task - 3: Creatinng Visualizations
+Task - 3: Creatinng Visualizations in TABLEAU PUBLIC DESKTOP APP.
 ------- 
+. Create KPI BANs, BarCharts, Line Graphs, and a Map
+. Learn how to duplicate charts
+. Clean up visulaization formatiining
 
-1. Total Sales KPI
-
+Key Takeaways:
+	> Understand the Data Field: Request a DATA DICTIONARY to help guide you on which fields to use and don't be afraid to ask questions about the data.
+	
+	> Clean up Tooltips: Tooltips can be easily overlooked when building, but can be easily noticed accidentally when a viewer looks at a dashboard.
+	
+	> Limit Slices in a Pie Chart: The less slices you have in a pie chart, the more effective and the easier to convey information.
+ 
 
 
 
